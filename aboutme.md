@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Computer Science 
-subtitle: And Video Games
+title: About me 
+subtitle: Computer Science
+published: True
 ---
 
 Hi! My name is Abhay Singh Khanka. I am a student of Computer Science at Trinity College Dublin
 
+CV : 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now 
-_(WORK IN PROGRESS)_
+Contact email : [abhaysk54@gmail.com](mailto:abhaysk54@gmail.com)
